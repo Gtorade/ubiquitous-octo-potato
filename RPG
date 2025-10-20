@@ -2,3 +2,5 @@
 
 def menu():
   print("---Super Starry RPG---")
+  print("Play")
+  print("Quit")
