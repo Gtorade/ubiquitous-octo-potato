@@ -5,4 +5,5 @@ def menu():
   print("Play") (1)
   print("Quit") (2)
   userInput = int(input(": "))
+menu()
 
