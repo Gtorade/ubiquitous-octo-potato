@@ -2,5 +2,7 @@
 
 def menu():
   print("---Super Starry RPG---")
-  print("Play")
-  print("Quit")
+  print("Play") (1)
+  print("Quit") (2)
+  userInput = int(input(": "))
+
