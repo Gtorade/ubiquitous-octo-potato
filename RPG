@@ -1,0 +1,4 @@
+#This is the project for RPG
+
+def menu():
+  print("---Super Starry RPG---")
